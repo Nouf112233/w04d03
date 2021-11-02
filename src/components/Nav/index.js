@@ -7,13 +7,13 @@ function Nav() {
         <div className="nav">
             <ul>
                 <li>
-                <Link to="/Home"  className="link">home</Link>
+                <Link to="/Home"  className="link">Home</Link>
                 </li>
                 <li>
-                <Link to="/About"  className="link">about</Link>
+                <Link to="/About"  className="link">About Us</Link>
                 </li>
                 <li>
-                <Link to="/Contact"  className="link">favorit</Link>
+                <Link to="/Favorit"  className="link">Favorit</Link>
                 </li>
             </ul>
             

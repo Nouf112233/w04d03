@@ -16,7 +16,7 @@ function App() {
     <Nav />
     <Switch >
     <Route exact path="/Home" component={Home} />
-    <Route exact path="/Favorit/:id" component={Favorit} />
+    <Route exact path="/Favorit" component={Favorit} />
     <Route exact path="/About" component={About} />
     <Route exact path="/Card/:id" component={Card} />
     <Route path="*" render={()=>{return <h1>404</h1>}} />
