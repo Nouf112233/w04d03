@@ -1,4 +1,5 @@
 import React from 'react'
+ // eslint-disable-next-line
 import {Link, useHistory} from 'react-router-dom'
 
 function Nav() {
@@ -12,7 +13,7 @@ function Nav() {
                 <Link to="/About"  className="link">about</Link>
                 </li>
                 <li>
-                <Link to="/Contact"  className="link">contact</Link>
+                <Link to="/Contact"  className="link">favorit</Link>
                 </li>
             </ul>
             
@@ -20,4 +21,4 @@ function Nav() {
     )
 }
 
-export default Nav
+export default Nav ;
