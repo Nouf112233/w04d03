@@ -1,0 +1,33 @@
+#maindis{
+    width: 85%;
+    margin: 0 auto;
+    }
+
+    .h{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: #050505;
+      font-weight: bold;
+      text-align: center;
+      font-size: 3rem;
+      margin-bottom: 3rem;
+      text-shadow: -2px -12px 13px rgba(63, 61, 61, 0.41);
+    }
+    
+    .divp{
+        background-color:gray;
+        width: 80%;
+        margin: 0 auto;
+        
+        
+    }
+    .p{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: whitesmoke;
+        font-weight: bold;
+        text-align: center;
+        font-size: 1rem;
+        margin-bottom: 3rem;
+        padding: 10px;
+      
+
+    }

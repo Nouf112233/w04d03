@@ -1,6 +1,7 @@
 import React from 'react'
  // eslint-disable-next-line
 import {Link, useHistory} from 'react-router-dom'
+import "./style.css"
 
 function Nav() {
     return (
